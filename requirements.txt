@@ -1,0 +1,17 @@
+scipy
+deepface
+tensorflow
+pandas
+plotly
+matplotlib
+numpy
+scikit-learn
+transformers
+prophet
+tqdm
+torch
+ipywidgets
+widgetsnbextension
+pandas-profiling
+networkx
+pandas
