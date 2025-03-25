@@ -1,0 +1,7 @@
+venumML
+pandas
+matplotlib
+scikit-learn
+seaborn
+numpy
+google-cloud-pubsub
