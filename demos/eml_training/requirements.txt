@@ -1,0 +1,5 @@
+functions-framework==3.*
+# venumML==0.2.*
+google-cloud-pubsub==2.*
+google-cloud-storage==2.*
+requests==2.*

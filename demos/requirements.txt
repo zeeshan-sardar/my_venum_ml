@@ -5,3 +5,6 @@ scikit-learn
 seaborn
 numpy
 google-cloud-pubsub
+functions-framework
+google-cloud-storage
+requests
